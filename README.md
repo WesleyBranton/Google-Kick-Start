@@ -1,5 +1,7 @@
 # Google Kickstart
 
+I have not participated in every round. These are my results for the rounds in which I participated. Any solutions that were not submitted during the round will have a comment at the top of the file to indicate that.
+
 ## 2021
 | Round | Rank | Q1 | Q2 | Q3 | Q4 | Points |
 | :---- | ---: | -: | -: | -: | -: | -----: |
